@@ -1,27 +1,27 @@
 <!--
   HarshSharma009 · GitHub profile README
-  Theme: terminal-brutalist · electric cyan (#00F5C4) on near-black (#0A0A0F)
+  Theme: GitHub-native dark · blue/gray (#58A6FF on #0D1117)
   Matches portfolio: theharshsharma.in
 -->
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=600&size=26&duration=2800&pause=500&color=00F5C4&center=true&vCenter=true&width=760&lines=%3C+Senior+Backend+Engineer+%2F%3E;Distributed+Systems;Fintech+Infrastructure;Rust+%C2%B7+Python+%C2%B7+Go" alt="typing banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=600&size=26&duration=2800&pause=500&color=58A6FF&center=true&vCenter=true&width=760&lines=%3C+Senior+Backend+Engineer+%2F%3E;Distributed+Systems;Fintech+Infrastructure;Rust+%C2%B7+Python+%C2%B7+Go" alt="typing banner" />
 
   <h1>Harsh Sharma</h1>
 
   <p><code>microservices · distributed systems · fintech</code></p>
 
   <p>
-    <a href="https://theharshsharma.in"><img src="https://img.shields.io/badge/portfolio-theharshsharma.in-00F5C4?style=for-the-badge&labelColor=0A0A0F&logo=vercel&logoColor=00F5C4" alt="portfolio" /></a>
-    <a href="https://www.linkedin.com/in/harsh-sharma-8a850b173/"><img src="https://img.shields.io/badge/linkedin-harsh--sharma-00F5C4?style=for-the-badge&labelColor=0A0A0F&logo=linkedin&logoColor=00F5C4" alt="linkedin" /></a>
-    <a href="mailto:harshsharma.ext@gmail.com"><img src="https://img.shields.io/badge/email-harshsharma.ext%40gmail.com-00F5C4?style=for-the-badge&labelColor=0A0A0F&logo=maildotru&logoColor=00F5C4" alt="email" /></a>
+    <a href="https://theharshsharma.in"><img src="https://img.shields.io/badge/portfolio-theharshsharma.in-58A6FF?style=for-the-badge&labelColor=0D1117&logo=vercel&logoColor=58A6FF" alt="portfolio" /></a>
+    <a href="https://www.linkedin.com/in/harsh-sharma-8a850b173/"><img src="https://img.shields.io/badge/linkedin-harsh--sharma-58A6FF?style=for-the-badge&labelColor=0D1117&logo=linkedin&logoColor=58A6FF" alt="linkedin" /></a>
+    <a href="mailto:harshsharma.ext@gmail.com"><img src="https://img.shields.io/badge/email-harshsharma.ext%40gmail.com-58A6FF?style=for-the-badge&labelColor=0D1117&logo=maildotru&logoColor=58A6FF" alt="email" /></a>
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/bangalore-india-6B6B80?style=flat-square&labelColor=0A0A0F" alt="location" />
-    <img src="https://img.shields.io/badge/status-available_for_roles-00F5C4?style=flat-square&labelColor=0A0A0F" alt="status" />
-    <img src="https://komarev.com/ghpvc/?username=HarshSharma009&style=flat-square&color=00F5C4&label=visitors&labelColor=0A0A0F" alt="visitors" />
+    <img src="https://img.shields.io/badge/bangalore-india-8B949E?style=flat-square&labelColor=0D1117" alt="location" />
+    <img src="https://img.shields.io/badge/status-available_for_roles-58A6FF?style=flat-square&labelColor=0D1117" alt="status" />
+    <img src="https://komarev.com/ghpvc/?username=HarshSharma009&style=flat-square&color=58A6FF&label=visitors&labelColor=0D1117" alt="visitors" />
   </p>
 
 </div>
@@ -73,42 +73,42 @@
 
 **Distributed Systems**
 
-![Kafka](https://img.shields.io/badge/Apache_Kafka-00F5C4?style=flat-square&labelColor=0A0A0F&logo=apachekafka&logoColor=00F5C4)
-![Airflow](https://img.shields.io/badge/Airflow-00F5C4?style=flat-square&labelColor=0A0A0F&logo=apacheairflow&logoColor=00F5C4)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-00F5C4?style=flat-square&labelColor=0A0A0F&logo=clickhouse&logoColor=00F5C4)
-![Redis](https://img.shields.io/badge/Redis-00F5C4?style=flat-square&labelColor=0A0A0F&logo=redis&logoColor=00F5C4)
-![Kong](https://img.shields.io/badge/Kong-00F5C4?style=flat-square&labelColor=0A0A0F&logo=kong&logoColor=00F5C4)
-![ZooKeeper](https://img.shields.io/badge/ZooKeeper-00F5C4?style=flat-square&labelColor=0A0A0F&logo=apache&logoColor=00F5C4)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-30363D?style=flat-square&labelColor=0D1117&logo=apachekafka&logoColor=C9D1D9)
+![Airflow](https://img.shields.io/badge/Airflow-30363D?style=flat-square&labelColor=0D1117&logo=apacheairflow&logoColor=C9D1D9)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-30363D?style=flat-square&labelColor=0D1117&logo=clickhouse&logoColor=C9D1D9)
+![Redis](https://img.shields.io/badge/Redis-30363D?style=flat-square&labelColor=0D1117&logo=redis&logoColor=C9D1D9)
+![Kong](https://img.shields.io/badge/Kong-30363D?style=flat-square&labelColor=0D1117&logo=kong&logoColor=C9D1D9)
+![ZooKeeper](https://img.shields.io/badge/ZooKeeper-30363D?style=flat-square&labelColor=0D1117&logo=apache&logoColor=C9D1D9)
 
 **Cloud & DevOps**
 
-![AWS](https://img.shields.io/badge/AWS-00F5C4?style=flat-square&labelColor=0A0A0F&logo=amazonwebservices&logoColor=00F5C4)
-![Docker](https://img.shields.io/badge/Docker-00F5C4?style=flat-square&labelColor=0A0A0F&logo=docker&logoColor=00F5C4)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-00F5C4?style=flat-square&labelColor=0A0A0F&logo=kubernetes&logoColor=00F5C4)
-![Azure](https://img.shields.io/badge/Azure_DevOps-00F5C4?style=flat-square&labelColor=0A0A0F&logo=azuredevops&logoColor=00F5C4)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-00F5C4?style=flat-square&labelColor=0A0A0F&logo=githubactions&logoColor=00F5C4)
+![AWS](https://img.shields.io/badge/AWS-30363D?style=flat-square&labelColor=0D1117&logo=amazonwebservices&logoColor=C9D1D9)
+![Docker](https://img.shields.io/badge/Docker-30363D?style=flat-square&labelColor=0D1117&logo=docker&logoColor=C9D1D9)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-30363D?style=flat-square&labelColor=0D1117&logo=kubernetes&logoColor=C9D1D9)
+![Azure](https://img.shields.io/badge/Azure_DevOps-30363D?style=flat-square&labelColor=0D1117&logo=azuredevops&logoColor=C9D1D9)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-30363D?style=flat-square&labelColor=0D1117&logo=githubactions&logoColor=C9D1D9)
 
 **Databases**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00F5C4?style=flat-square&labelColor=0A0A0F&logo=postgresql&logoColor=00F5C4)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-00F5C4?style=flat-square&labelColor=0A0A0F&logo=clickhouse&logoColor=00F5C4)
-![Redis](https://img.shields.io/badge/Redis-00F5C4?style=flat-square&labelColor=0A0A0F&logo=redis&logoColor=00F5C4)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-30363D?style=flat-square&labelColor=0D1117&logo=postgresql&logoColor=C9D1D9)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-30363D?style=flat-square&labelColor=0D1117&logo=clickhouse&logoColor=C9D1D9)
+![Redis](https://img.shields.io/badge/Redis-30363D?style=flat-square&labelColor=0D1117&logo=redis&logoColor=C9D1D9)
 
 **Observability**
 
-![Prometheus](https://img.shields.io/badge/Prometheus-00F5C4?style=flat-square&labelColor=0A0A0F&logo=prometheus&logoColor=00F5C4)
-![Grafana](https://img.shields.io/badge/Grafana-00F5C4?style=flat-square&labelColor=0A0A0F&logo=grafana&logoColor=00F5C4)
-![Loki](https://img.shields.io/badge/Loki-00F5C4?style=flat-square&labelColor=0A0A0F&logo=grafana&logoColor=00F5C4)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-00F5C4?style=flat-square&labelColor=0A0A0F&logo=opentelemetry&logoColor=00F5C4)
+![Prometheus](https://img.shields.io/badge/Prometheus-30363D?style=flat-square&labelColor=0D1117&logo=prometheus&logoColor=C9D1D9)
+![Grafana](https://img.shields.io/badge/Grafana-30363D?style=flat-square&labelColor=0D1117&logo=grafana&logoColor=C9D1D9)
+![Loki](https://img.shields.io/badge/Loki-30363D?style=flat-square&labelColor=0D1117&logo=grafana&logoColor=C9D1D9)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-30363D?style=flat-square&labelColor=0D1117&logo=opentelemetry&logoColor=C9D1D9)
 
 **Frameworks**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-00F5C4?style=flat-square&labelColor=0A0A0F&logo=fastapi&logoColor=00F5C4)
-![Flask](https://img.shields.io/badge/Flask-00F5C4?style=flat-square&labelColor=0A0A0F&logo=flask&logoColor=00F5C4)
-![Django](https://img.shields.io/badge/Django-00F5C4?style=flat-square&labelColor=0A0A0F&logo=django&logoColor=00F5C4)
-![Actix](https://img.shields.io/badge/Actix-00F5C4?style=flat-square&labelColor=0A0A0F&logo=actix&logoColor=00F5C4)
-![Gin](https://img.shields.io/badge/Gin-00F5C4?style=flat-square&labelColor=0A0A0F&logo=go&logoColor=00F5C4)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-00F5C4?style=flat-square&labelColor=0A0A0F&logo=springboot&logoColor=00F5C4)
+![FastAPI](https://img.shields.io/badge/FastAPI-30363D?style=flat-square&labelColor=0D1117&logo=fastapi&logoColor=C9D1D9)
+![Flask](https://img.shields.io/badge/Flask-30363D?style=flat-square&labelColor=0D1117&logo=flask&logoColor=C9D1D9)
+![Django](https://img.shields.io/badge/Django-30363D?style=flat-square&labelColor=0D1117&logo=django&logoColor=C9D1D9)
+![Actix](https://img.shields.io/badge/Actix-30363D?style=flat-square&labelColor=0D1117&logo=actix&logoColor=C9D1D9)
+![Gin](https://img.shields.io/badge/Gin-30363D?style=flat-square&labelColor=0D1117&logo=go&logoColor=C9D1D9)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-30363D?style=flat-square&labelColor=0D1117&logo=springboot&logoColor=C9D1D9)
 
 ---
 
@@ -127,20 +127,20 @@
 
 <div align="center">
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=HarshSharma009&show_icons=true&count_private=true&hide_border=false&bg_color=0A0A0F&title_color=00F5C4&icon_color=00F5C4&text_color=E8E8F0&border_color=1E1E2E&include_all_commits=true" alt="github stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshSharma009&layout=compact&langs_count=8&hide_border=false&bg_color=0A0A0F&title_color=00F5C4&text_color=E8E8F0&border_color=1E1E2E" alt="top languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=HarshSharma009&show_icons=true&count_private=true&hide_border=false&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_color=30363D&include_all_commits=true" alt="github stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshSharma009&layout=compact&langs_count=8&hide_border=false&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D" alt="top languages" />
 
 </div>
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com/?user=HarshSharma009&background=0A0A0F&border=1E1E2E&stroke=00F5C4&ring=00F5C4&fire=00F5C4&currStreakLabel=00F5C4&currStreakNum=E8E8F0&sideNums=E8E8F0&dates=6B6B80&sideLabels=6B6B80&hide_border=false" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user=HarshSharma009&background=0D1117&border=30363D&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&sideLabels=8B949E&hide_border=false" alt="streak" />
 
 </div>
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=HarshSharma009&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HarshSharma009&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
 
 </div>
 
@@ -150,7 +150,7 @@
 
 <div align="center">
 
-  <img src="https://ghchart.rshah.org/00F5C4/HarshSharma009" alt="contribution graph" width="95%" />
+  <img src="https://ghchart.rshah.org/58A6FF/HarshSharma009" alt="contribution graph" width="95%" />
 
 </div>
 
