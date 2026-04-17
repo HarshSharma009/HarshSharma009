@@ -10,6 +10,8 @@
 
 **Senior Backend Engineer · Distributed Systems · Fintech Infrastructure**
 
+<img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=600&size=20&duration=2600&pause=800&color=1F6FEB&center=true&vCenter=true&width=560&lines=%3C+Senior+Backend+Engineer+%2F%3E;Distributed+Systems;Fintech+Infrastructure;Rust+%C2%B7+Python+%C2%B7+Go" alt="typing header" />
+
 <a href="https://theharshsharma.in"><img src="https://img.shields.io/badge/Portfolio-theharshsharma.in-0969DA?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
 <a href="https://www.linkedin.com/in/harsh-sharma-8a850b173/"><img src="https://img.shields.io/badge/LinkedIn-Harsh%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 <a href="mailto:harshsharma.ext@gmail.com"><img src="https://img.shields.io/badge/Email-harshsharma.ext%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
@@ -34,19 +36,6 @@
 > previous: Kotak Mahindra Bank · Juspay · Apisero
 > status: open to senior backend/distributed systems roles
 ```
-
----
-
-## Impact Snapshot
-
-<table>
-  <tr>
-    <td align="center"><b>5M+</b><br/><sub>events/day</sub></td>
-    <td align="center"><b>99.99%</b><br/><sub>delivery accuracy</sub></td>
-    <td align="center"><b>1M+</b><br/><sub>customers served</sub></td>
-    <td align="center"><b>5+</b><br/><sub>years experience</sub></td>
-  </tr>
-</table>
 
 ---
 
