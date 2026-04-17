@@ -1,7 +1,7 @@
 <!--
   HarshSharma009 · GitHub profile README
   Theme: terminal-brutalist · electric cyan (#00F5C4) on near-black (#0A0A0F)
-  Matches portfolio: github.com/HarshSharma009/harshsharma-dev
+  Matches portfolio: theharshsharma.in
 -->
 
 <div align="center">
@@ -13,7 +13,7 @@
   <p><code>microservices · distributed systems · fintech</code></p>
 
   <p>
-    <a href="https://github.com/HarshSharma009/harshsharma-dev"><img src="https://img.shields.io/badge/portfolio-harsh.sh-00F5C4?style=for-the-badge&labelColor=0A0A0F&logo=vercel&logoColor=00F5C4" alt="portfolio" /></a>
+    <a href="https://theharshsharma.in"><img src="https://img.shields.io/badge/portfolio-theharshsharma.in-00F5C4?style=for-the-badge&labelColor=0A0A0F&logo=vercel&logoColor=00F5C4" alt="portfolio" /></a>
     <a href="https://www.linkedin.com/in/harsh-sharma-8a850b173/"><img src="https://img.shields.io/badge/linkedin-harsh--sharma-00F5C4?style=for-the-badge&labelColor=0A0A0F&logo=linkedin&logoColor=00F5C4" alt="linkedin" /></a>
     <a href="mailto:harshsharma.ext@gmail.com"><img src="https://img.shields.io/badge/email-harshsharma.ext%40gmail.com-00F5C4?style=for-the-badge&labelColor=0A0A0F&logo=maildotru&logoColor=00F5C4" alt="email" /></a>
   </p>
@@ -160,7 +160,7 @@
 
 - [`code-review-graph-go`](https://github.com/HarshSharma009/code-review-graph-go) — Go port of a graph-based code review tool, 17-language tree-sitter parser with SQLite WAL + FTS5 BM25 + vector search merged via RRF. Ships as a 19-tool MCP server.
 - [`StockMarketPredictor`](https://github.com/HarshSharma009/StockMarketPredictor) — Django + LSTM web app forecasting stock prices from 5 years of historical data.
-- [Full portfolio →](https://github.com/HarshSharma009/harshsharma-dev) — scroll-driven React + Framer Motion site with the live payment pipeline diagram.
+- [Full portfolio →](https://theharshsharma.in) — scroll-driven React + Framer Motion site with the live payment pipeline diagram.
 
 ---
 
